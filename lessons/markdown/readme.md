@@ -39,10 +39,10 @@ Markdown is a simple way to add formatting — like headers, bold/italic text, a
 ## <a name="section-a"></a>1) Line Breaks 
 
 **How to add line breaks:**  
-1.  add two spaces to end of line** 
-    Hello  World
+1.  add two spaces to end of line**<br>  
+    Hello  World <br>
     
-2.  enclose text in triple back quotes 
+2.  enclose text in triple back quotes<br>  
     '''Hello
     World'''
 ---
@@ -50,11 +50,11 @@ Markdown is a simple way to add formatting — like headers, bold/italic text, a
 ## <a name="section-b"></a>2) Text Formatting  
 
 bold: `**bold**`  **bold** <br> 
-***Hello World***
+***Hello World***<br>
 italic:  `*italic*` *italic* <br>
-*Hello World*
-italic:  `_italic_` _italic_  
-/n _Hello World_
+*Hello World*<br>
+italic:  `_italic_` _italic_ <br> 
+_Hello World_
 
 ---
 
