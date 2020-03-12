@@ -40,10 +40,11 @@ Markdown is a simple way to add formatting — like headers, bold/italic text, a
 
 **How to add line breaks:**  
 1.  add two spaces to end of line**<br>  
-    Hello  World <br>
+    Hello<br> World <br>
     
 2.  enclose text in triple back quotes<br>  
     '''Hello
+    
     World'''
 ---
 
