@@ -49,12 +49,12 @@ Markdown is a simple way to add formatting — like headers, bold/italic text, a
 
 ## <a name="section-b"></a>2) Text Formatting  
 
-bold: `**bold**`  **bold**  
+bold: `**bold**`  **bold** <br> 
 ***Hello World***
-italic:  `*italic*` *italic*  
+italic:  `*italic*` *italic* <br>
 *Hello World*
 italic:  `_italic_` _italic_  
-_Hello World_
+/n _Hello World_
 
 ---
 
